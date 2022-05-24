@@ -2,7 +2,7 @@
 Se presentan los resultados del Taller #4 del curso de Introducción a la Ciencia de Datos.
 
 ## Pregunta a Responder
-**Pregunta**
+**Es posible clasificar residuos a partir de imagenes mediante la implementación de redes neuronales convolucionales?**
 
 ## Datos Utilizados
 [enlace](https://www.kaggle.com/datasets/roy2004/unsortedwaste)
