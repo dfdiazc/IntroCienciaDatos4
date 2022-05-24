@@ -41,27 +41,27 @@ Organic: 1401
 
 ## Procedimiento
 
-Inicialmente, utilizando la librería TensorFlow, se cargaron los datos y se separaron en dos grupos: entrenamiento y validación. Del total de datos, se utilizaron 5454 para entrenamiento y 605 para validación. Asimismo, se cambió el tamaño de cada imagen a 256x256 previamente a realizar el modelo. Ya teniendo esto, se realizó una red neuronal convolucional, definiendo una función ReLU para la activación y una CrossEntropy como función de costo. Igualmente, se definió un **learning rate** de 0.00125 y un número de épocas de 50.
+Inicialmente, utilizando la librería TensorFlow, se cargaron los datos y se separaron en dos grupos: entrenamiento y validación. Del total de datos, se utilizaron 5454 para entrenamiento y 605 para validación. Asimismo, se cambió el tamaño de cada imagen a 256x256 previamente a realizar el modelo. Ya teniendo esto, se realizó una red neuronal convolucional, definiendo una función ReLU para la activación y una CrossEntropy como función de costo. Igualmente, se definió un *learning rate* de 0.00125 y un número de épocas de 50.
 
-Así, se obtuvo la siguiente gráfica para el **loss** vs el número de épocas:
+Así, se obtuvo la siguiente gráfica para el *loss* vs el número de épocas:
 
 <p align="center">
   <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/loss.png?raw=true">
 </p>
 
-Y la siguiente para la **precisión** vs el número de épocas:
+Y la siguiente para la *precisión* vs el número de épocas:
 
 <p align="center">
   <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/accuracy.png?raw=true">
 </p>
 
-Asimismo, se graficó el **loss** vs el **learning rate**:
+Asimismo, se graficó el *loss* vs el *learning rate*:
 
 <p align="center">
   <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/loss_vs_learning_rate.png?raw=true">
 </p>
 
-En esta última imagen se puede apreciar como, a partir de aproximadamente un valor de 0.0015 para el **learning rate**, se minimiza la función de costo, esto es, no tiene mayor efecto utilizar una tasa de aprendizaje más álta.
+En esta última imagen se puede apreciar como, a partir de aproximadamente un valor de 0.0015 para el *learning rate*, se minimiza la función de costo, esto es, no tiene mayor efecto utilizar una tasa de aprendizaje más álta.
 
 Igualmente, se obtiene la siguiente matríz de confusión:
 
