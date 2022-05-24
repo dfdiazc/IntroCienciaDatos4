@@ -29,7 +29,8 @@ Carboard: 764<br>
 Glass: 991<br>
 Metal: 1031<br>
 Paper: 594<br>
-Plastic: 1278
+Plastic: 1278<br>
+Organic: 1401
 
 ## Procedimiento
 
