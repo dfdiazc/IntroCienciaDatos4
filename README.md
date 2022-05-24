@@ -19,18 +19,27 @@ Los integrantes del grupo son:
 test
 
 ## Datos Utilizados
-[enlace](https://www.kaggle.com/datasets/roy2004/unsortedwaste)
-[enlace](https://www.kaggle.com/datasets/techsash/waste-classification-data)
-[enlace](https://www.kaggle.com/datasets/hseyinsaidkoca/recyclable-solid-waste-dataset-on-5-background-co)
-[enlace](https://www.kaggle.com/datasets/ionutandreivaduva/garbage-classification)
-[enlace](https://www.kaggle.com/datasets/sanjadrag24/recyclable-waste-images)
 
-Carboard: 764<br>
-Glass: 991<br>
-Metal: 1031<br>
-Paper: 594<br>
-Plastic: 1278<br>
+Los datos utilizados fueron obtenidos a partir de Kaggle. Se utilizaron 5 datasets diferentes, de dónde se obtuvieron imagenes a clasificar en las siguientes categorías: cartón, vidrio, metal, papel, plastico y orgánico. Estos datasets están disponibles en los siguientes enlaces:
+
+[Dataset 1](https://www.kaggle.com/datasets/roy2004/unsortedwaste): "Unsorted Waste"<br>
+[Dataset 2](https://www.kaggle.com/datasets/techsash/waste-classification-data): "Waste Classification Data"<br>
+[Dataset 3](https://www.kaggle.com/datasets/hseyinsaidkoca/recyclable-solid-waste-dataset-on-5-background-co): "Recyclable Solid Waste Dataset"<br>
+[Dataset 4](https://www.kaggle.com/datasets/ionutandreivaduva/garbage-classification): "Garbage Classification"<br>
+[Dataset 5](https://www.kaggle.com/datasets/sanjadrag24/recyclable-waste-images): "Recyclable Waste Images"<br>
+
+A partir de esto, se obtuvo un total de 6059 imagenes, clasificadas de la siguiente manera:
+
+```python
+Carboard: 764
+Glass: 991
+Metal: 1031
+Paper: 594
+Plastic: 1278
 Organic: 1401
+```
+
+
 
 ## Procedimiento
 
