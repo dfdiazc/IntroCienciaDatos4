@@ -11,6 +11,11 @@ Se presentan los resultados del Taller #4 del curso de Introducción a la Cienci
 [enlace](https://www.kaggle.com/datasets/ionutandreivaduva/garbage-classification)
 [enlace](https://www.kaggle.com/datasets/sanjadrag24/recyclable-waste-images)
 
+Carboard: 764<br>
+Glass: 991<br>
+Metal: 1031<br>
+Paper: 594<br>
+Plastic: 1278
 
 ## Procedimiento
 
