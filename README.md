@@ -10,7 +10,9 @@ Los integrantes del grupo son:
 #### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vargas-castillo/) Daniel Felipe Vargas Castillo
 
 #### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dflopez/) Daniel Felipe López Rubiano
+
 <br>
+
 El artículo correspondiente al proyecto está disponible en el siguiente [enlace](https://medium.com/@df.diazc/waste-management-using-neural-networks-20da7bbb81d7).
 
 ## Pregunta a Responder
