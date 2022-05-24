@@ -16,7 +16,7 @@ Los integrantes del grupo son:
 
 ## Motivación
 
-test
+Uno de los más grandes problemas de la sociedad moderna es la acumulación de residuos.
 
 ## Datos Utilizados
 
@@ -39,12 +39,44 @@ Plastic: 1278
 Organic: 1401
 ```
 
-
-
 ## Procedimiento
 
-Test
+Inicialmente, utilizando la librería TensorFlow, se cargaron los datos y se separaron en dos grupos: entrenamiento y validación. Del total de datos, se utilizaron 5454 para entrenamiento y 605 para validación. Asimismo, se cambió el tamaño de cada imagen a 256x256 previamente a realizar el modelo. Ya teniendo esto, se realizó una red neuronal convolucional, definiendo una función ReLU para la activación y una CrossEntropy como función de costo. Igualmente, se definió un **learning rate** de 0.00125 y un número de épocas de 50.
+
+Así, se obtuvo la siguiente gráfica para el **loss** vs el número de épocas:
+
+<p align="center">
+  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/loss.png?raw=true">
+</p>
+
+Y la siguiente para la **precisión** vs el número de épocas:
+
+<p align="center">
+  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/accuracy.png?raw=true">
+</p>
+
+Asimismo, se graficó el **loss** vs el **learning rate**:
+
+<p align="center">
+  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/loss_vs_learning_rate.png?raw=true">
+</p>
+
+En esta última imagen se puede apreciar como, a partir de aproximadamente un valor de 0.0015 para el **learning rate**, se minimiza la función de costo, esto es, no tiene mayor efecto utilizar una tasa de aprendizaje más álta.
+
+Igualmente, se obtiene la siguiente matríz de confusión:
+
+<p align="center">
+  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/confusion_matrix.png?raw=true">
+</p>
+
+Ya teniendo el modelo, se guarda en un archivo .h5 y se puede realizar predicciones con imagenes que éste no haya visto antes. Por ejemplo, se pueden clasificar imagenes de la siguiente manera:
+
+<p align="center">
+  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/prediction.png?raw=true">
+</p>
+
+Se observa que el modelo da una probabilidad de que la imagen pertenezca a una clase dada. Para propósitos prácticos, se asume que la clase con mayor probabilidad es la clase a la que pertenece el objeto.
 
 ## Resultados
 
-Test
+Se concluye que es posible, mediante la utilización de redes neuronales convolucionales, identificar y clasificar residuos con una buena precisión.
