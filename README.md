@@ -69,7 +69,7 @@ Igualmente, se obtiene la siguiente matríz de confusión:
   <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/confusion_matrix.png?raw=true">
 </p>
 
-Ya teniendo el modelo, se guarda en un archivo .h5 y se puede realizar predicciones con imagenes que éste no haya visto antes. Por ejemplo, se pueden clasificar imagenes de la siguiente manera:
+Ya teniendo el modelo, se guarda en un archivo .h5 pudiendo así realizar predicciones con imagenes que éste no haya visto antes. Por ejemplo, se pueden clasificar imagenes de la siguiente manera:
 
 <p align="center">
   <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/prediction.png?raw=true">
