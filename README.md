@@ -16,7 +16,7 @@ Los integrantes del grupo son:
 
 ## Motivación
 
-Uno de los más grandes problemas de la sociedad moderna es la acumulación de residuos.
+Uno de los más grandes problemas de la sociedad moderna es la acumulación de residuos. Los materiales reciclables no se reciclan correctamente, o nunca llegan a una planta de reciclaje, sino que termina acumulandose en basureros. Si se analiza de cerca, el problema radica fundamentalmente en que las personas no tienen una consciencia de cuidado por el medio ambiente, más precisamente, en la clasificación de los residuos que producen. En la actualidad no es extraño encontrarse una basura clasificada en 3: orgánicos, inorgánicos y reciclables. Sin embargo, a veces es difícil para una persona identificar en dónde debería arrojar su basura, por lo que lo hace en cualquiera de las 3 y sigue con su día. Es así que surge la idea de la clasificación automática de residuos. La persona no debería preocuparse por el lugar correcto en el que debe arrojar su basura, sino que un algorítmo lo clasificaría por él.
 
 ## Datos Utilizados
 
