@@ -79,4 +79,6 @@ Se observa que el modelo da una probabilidad de que la imagen pertenezca a una c
 
 ## Resultados
 
-Se concluye que es posible, mediante la utilización de redes neuronales convolucionales, identificar y clasificar residuos con una buena precisión.
+Se concluye que es posible, mediante la utilización de redes neuronales convolucionales, identificar y clasificar residuos con una buena precisión. Utilizando este modelo, junto a demás herramientas tecnológicas, es posible implementar procesos de automatización de clasificación de residuos.
+
+El modelo obtenido es bastante bueno, como se observa en la matríz de confusión, sin embargo, nada es perfecto. Por este motivo, para mejorar aún más el modelo, es pertinente ampliar el dataset con imagenes variadas, motivando así al algorítmo a aprender a diferenciar una categoría de otra de una mejor manera.
