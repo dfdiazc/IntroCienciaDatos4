@@ -7,9 +7,9 @@ Los integrantes del grupo son:
 
 #### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fabi%C3%A1n-hern%C3%A1ndez-g%C3%B3mez-05a43b221/) Daniel Hernandez Gómez
 
-#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() Daniel Felipe Vargas Castillo
+#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vargas-castillo/) Daniel Felipe Vargas Castillo
 
-#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]() Daniel Felipe López Rubiano
+#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dflopez) Daniel Felipe López Rubiano
 
 ## Pregunta a Responder
 **Es posible clasificar residuos a partir de imagenes mediante la implementación de redes neuronales convolucionales?**
