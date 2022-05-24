@@ -72,7 +72,7 @@ Igualmente, se obtiene la siguiente matríz de confusión:
 Ya teniendo el modelo, se guarda en un archivo .h5 pudiendo así realizar predicciones con imagenes que éste no haya visto antes. Por ejemplo, se pueden clasificar imagenes de la siguiente manera:
 
 <p align="center">
-  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/prediction.png?raw=true">
+  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/prediction.jpg?raw=true">
 </p>
 
 Se observa que el modelo da una probabilidad de que la imagen pertenezca a una clase dada. Para propósitos prácticos, se asume que la clase con mayor probabilidad es la clase a la que pertenece el objeto.
