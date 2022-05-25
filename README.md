@@ -5,7 +5,7 @@ Los integrantes del grupo son:
 
 #### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-felipe-d%C3%ADaz-caballero-8735ab234/) Daniel Felipe Díaz Caballero
 
-#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fabi%C3%A1n-hern%C3%A1ndez-g%C3%B3mez-05a43b221/) Daniel Hernandez Gómez
+#### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-fabi%C3%A1n-hern%C3%A1ndez-g%C3%B3mez-05a43b221/) Daniel Fabián Hernández Gómez
 
 #### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-vargas-castillo/) Daniel Felipe Vargas Castillo
 
