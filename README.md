@@ -11,6 +11,10 @@ Los integrantes del grupo son:
 
 #### [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dflopez/) Daniel Felipe López Rubiano
 
+<br>
+
+El artículo correspondiente al proyecto está disponible en el siguiente [enlace](https://medium.com/@df.diazc/waste-management-using-neural-networks-20da7bbb81d7).
+
 ## Pregunta a Responder
 **Es posible clasificar residuos a partir de imagenes mediante la implementación de redes neuronales convolucionales?**
 
@@ -72,10 +76,18 @@ Igualmente, se obtiene la siguiente matríz de confusión:
 Ya teniendo el modelo, se guarda en un archivo .h5 pudiendo así realizar predicciones con imagenes que éste no haya visto antes. Por ejemplo, se pueden clasificar imagenes de la siguiente manera:
 
 <p align="center">
-  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/prediction.png?raw=true">
+  <img src="https://github.com/dfdiazc/IntroCienciaDatos4/blob/main/results/prediction.jpg?raw=true">
 </p>
 
-Se observa que el modelo da una probabilidad de que la imagen pertenezca a una clase dada. Para propósitos prácticos, se asume que la clase con mayor probabilidad es la clase a la que pertenece el objeto.
+Obteniendo como resultado:
+
+```python
+['cardboard', 'glass', 'metal', 'organic', 'paper', 'plastic']
+[9.997e+01 0.000e+00 0.000e+00 0.000e+00 3.000e-02 0.000e+00]
+Prediction:  cardboard 99.96622800827026%
+```
+
+Se observa que el modelo da una probabilidad de que la imagen pertenezca a una clase dada. Para propósitos prácticos, se asume que la clase con mayor probabilidad es la clase a la que pertenece el objeto. En este caso, se obtiene que la imagen pertenece a la clase *cartón*, con una certeza del 99.98%, lo cuál es un resultado increíble. Igualmente, se puede evaluar el modelo con más imagenes que éste no haya visto anteriormente, y así validar los mismos.
 
 ## Resultados
 
