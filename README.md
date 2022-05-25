@@ -83,8 +83,8 @@ Obteniendo como resultado:
 
 ```python
 ['cardboard', 'glass', 'metal', 'organic', 'paper', 'plastic']
-[9.998e+01 0.000e+00 0.000e+00 1.000e-02 0.000e+00] 
-Prediction:  cardboard 99.98301267623901%
+[9.997e+01 0.000e+00 0.000e+00 0.000e+00 3.000e-02 0.000e+00]
+Prediction:  cardboard 99.96622800827026%
 ```
 
 Se observa que el modelo da una probabilidad de que la imagen pertenezca a una clase dada. Para propósitos prácticos, se asume que la clase con mayor probabilidad es la clase a la que pertenece el objeto. En este caso, se obtiene que la imagen pertenece a la clase *cartón*, con una certeza del 99.98%, lo cuál es un resultado increíble. Igualmente, se puede evaluar el modelo con más imagenes que éste no haya visto anteriormente, y así validar los mismos.
